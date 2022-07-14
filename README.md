@@ -7,3 +7,4 @@ As of late, I've been working to refine my python skills before I delve into oth
 
 - 😄 Pronouns: he/him
 - 👯 I’m looking to collaborate on any projects that will allow me to develop my python skills.
+- 💤 I specialize in programs involving REST APIs, webscraping, and social media.
